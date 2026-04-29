@@ -1,1 +1,1 @@
-# aiwminijuegos
+# ritual-laser
